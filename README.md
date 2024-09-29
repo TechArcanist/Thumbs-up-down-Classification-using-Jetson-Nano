@@ -1,4 +1,4 @@
-# Thumbs-up-down Classification on Jetson Nano and Windows 👍👎
+Thumbs-Up/Down Classification on Jetson Nano or Any OS (Including Windows and iOS) 👍👎
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=100&duration=4000&lines=Thumbs-up+down+Classification!+🤖;" />
