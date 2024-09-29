@@ -204,7 +204,7 @@ create_project_structure()
 
 Now click the link below to open my notebook on this repo, copy the code of each cell, and paste it in the same order in your training notebook. Execute them one by one and follow all the instructions written in that notebook to create the dataset and train the model.
 
-**Link:** [[Training Notebook](https://github.com/TechArcanist/Thumbs-up-down-Classification-using-Jetson-Nano/blob/main/training.ipynb)](#)
+**Link:** [[Training Notebook](https://github.com/TechArcanist/Thumbs-up-down-Classification-using-Jetson-Nano/blob/main/training.ipynb)]
 
 ### Step 3: Test Your Model
 
