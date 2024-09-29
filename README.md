@@ -208,11 +208,13 @@ Now click the link below to open my notebook on this repo, copy the code of each
 
 ### Step 3: Test Your Model
 
-Now that your model is saved, open your testing notebook and click on the link below to access my notebook. Paste the code in your testing notebook and congratulations, your model is ready to be tested!
+Now that your model is saved, open your testing notebook and click on the link below to access my notebook. Paste the code in your testing notebook and congratulations, your model is ready to be tested! A window with camera feed will appear.
 
-**Link:** [Testing Notebook](#)
+**Link:** [[Testing Notebook](https://github.com/TechArcanist/Thumbs-up-down-Classification-using-Jetson-Nano/blob/main/testing.ipynb)]
 
 ---
+
+https://github.com/user-attachments/assets/7aaca4fb-08da-4dbb-a835-d313bb3280c2
 
 ## Developed by
 
